@@ -1,4 +1,4 @@
 <?php
-include_once('HTML/home.html');
+include_once('HTML');
 
 ?>
